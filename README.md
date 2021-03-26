@@ -1,4 +1,4 @@
-# add-invoice-date-to-pdf and some othe content in it-invoice-magento-2
+# add invoice date to pdf and some othe content in it invoice magento 2
 By default invoice date is not available on Magento 2 pdf invoice, this module just allow you to add invoice date beside order date
 
 Follow the below steps to use this module for your Magento 2 setup 
